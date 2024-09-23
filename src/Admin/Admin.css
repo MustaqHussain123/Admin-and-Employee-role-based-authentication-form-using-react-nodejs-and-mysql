@@ -1,0 +1,65 @@
+/* Admin.css */
+
+.table-container {
+    max-width: 90%;
+    margin: 2rem auto;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+    background-color: #ffffff;
+    position: relative;
+    left: 10px;
+  }
+  
+  .table-title {
+    text-align: center;
+    margin: 1rem 0;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table thead {
+    background-color: #aaaaaa;
+  }
+  
+  .table th {
+    font-weight: bold;
+    padding: 0.75rem;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .table td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .table tr:nth-of-type(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .table tbody:hover {
+    background-color: #f1f1f1;
+  }
+  /* Admin.css */
+.table-container {
+    margin: 20px;
+  }
+  
+  .table-title {
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    min-width: 700px;
+  }
+  
+  button {
+    margin-right: 10px;
+  }
+  
+  
